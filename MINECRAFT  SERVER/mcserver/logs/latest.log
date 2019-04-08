@@ -1,0 +1,326 @@
+[12:20:40] [main/INFO]: Loaded 0 recipes
+[12:20:40] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[12:20:40] [Server thread/INFO]: Loading properties
+[12:20:40] [Server thread/INFO]: Default game type: SURVIVAL
+[12:20:40] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-518206a-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[12:20:41] [Server thread/INFO]: Debug logging is disabled
+[12:20:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:20:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:20:41] [Server thread/INFO]: Generating keypair
+[12:20:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:20:41] [Server thread/INFO]: Using default channel type
+[12:20:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:20:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:20:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:20:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:20:41] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:20:41] [Server thread/INFO]: Preparing level "world"
+[12:20:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[12:20:41] [Server thread/INFO]: Loaded 524 recipes
+[12:20:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:20:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:42] [Server thread/INFO]: View Distance: 10
+[12:20:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mob Spawn Range: 6
+[12:20:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:42] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:20:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:42] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:20:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:20:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:42] [Server thread/INFO]: View Distance: 10
+[12:20:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mob Spawn Range: 6
+[12:20:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:42] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:20:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:42] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:20:42] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:20:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:20:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:20:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:20:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:20:42] [Server thread/INFO]: View Distance: 10
+[12:20:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:20:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:20:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:20:42] [Server thread/INFO]: Mob Spawn Range: 6
+[12:20:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:20:42] [Server thread/INFO]: Max TNT Explosions: 100
+[12:20:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[12:20:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:20:42] [Server thread/INFO]: Random Lighting Updates: false
+[12:20:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:20:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:20:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:20:42] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 150841708)
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 4%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 8%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 12%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 16%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 20%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 24%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 28%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 32%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 36%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 40%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 44%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 48%
+[12:20:42] [Server thread/INFO]: Preparing spawn area: 52%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 56%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 60%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 64%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 68%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 72%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 76%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 80%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 84%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 88%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 92%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 96%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:20:43] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 150841708)
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 4%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 8%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 12%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 16%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 20%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 24%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 28%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 32%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 36%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 40%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 44%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 48%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 52%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 56%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 60%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 64%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 68%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 72%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 76%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 80%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 84%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 88%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 92%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 96%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:20:43] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 150841708)
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 4%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 8%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 12%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 16%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 20%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 24%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 28%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 32%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 36%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 40%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 44%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 48%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 52%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 56%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 60%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 64%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 68%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 72%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 76%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 80%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 84%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 88%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 92%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 96%
+[12:20:43] [Server thread/INFO]: Preparing spawn area: 100%
+[12:20:43] [Server thread/INFO]: Time elapsed: 1424 ms
+[12:20:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:20:43] [Server thread/INFO]: Done (2.530s)! For help, type "help"
+[12:21:21] [User Authenticator #1/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[12:21:22] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:59982] logged in with entity id 202 at ([world]227.46896569221667, 64.0, -247.63339221270502)
+[12:21:29] [User Authenticator #2/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[12:21:29] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60010] logged in with entity id 257 at ([world]258.791215247277, 68.0, -190.56047136036673)
+[12:21:48] [User Authenticator #3/INFO]: UUID of player Krooks is 906bed8c-6cf4-39b5-b9c1-fe35bb5e4f0d
+[12:21:48] [Server thread/INFO]: Krooks[/0:0:0:0:0:0:0:1:60026] logged in with entity id 375 at ([world]187.59574136258965, 64.0, -246.23750001192101)
+[12:22:42] [Server thread/INFO]: Krooks has made the advancement [Take Aim]
+[12:33:05] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[12:33:05] [Server thread/INFO]: Fido27 left the game
+[12:33:12] [User Authenticator #4/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[12:33:12] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60043] logged in with entity id 4956 at ([world]300.69999998807907, 23.0, -185.69999998807907)
+[12:36:44] [User Authenticator #5/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[12:36:44] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60057] logged in with entity id 6622 at ([world]176.5, 63.0, -194.5)
+[12:39:35] [Async Chat Thread - #0/INFO]: <cyberboy> status[m
+[12:39:40] [Server thread/INFO]: cyberboy issued server command: /status
+[12:39:45] [Server thread/INFO]: cyberboy issued server command: /help
+[12:39:57] [Server thread/INFO]: cyberboy issued server command: /help1
+[12:40:02] [Server thread/INFO]: cyberboy issued server command: /help[1]
+[12:40:07] [Server thread/INFO]: cyberboy issued server command: /help
+[12:40:14] [Server thread/INFO]: cyberboy issued server command: /help 2
+[12:40:22] [Server thread/INFO]: cyberboy issued server command: /version
+[12:43:48] [Server thread/INFO]: cyberboy has made the advancement [Sweet Dreams]
+[12:46:37] [Server thread/INFO]: TheSynthax lost connection: Timed out
+[12:46:37] [Server thread/INFO]: TheSynthax left the game
+[12:48:41] [User Authenticator #6/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[12:48:41] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60067] logged in with entity id 10724 at ([world]198.88993686132397, 63.875, -281.30000001192093)
+[12:52:58] [Server thread/INFO]: cyberboy has made the advancement [Stone Age]
+[12:55:20] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[12:55:20] [Server thread/INFO]: Fido27 left the game
+[12:55:21] [Server thread/INFO]: TheSynthax lost connection: Disconnected
+[12:55:21] [Server thread/INFO]: TheSynthax left the game
+[12:55:27] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[12:55:27] [Server thread/INFO]: cyberboy left the game
+[12:55:30] [User Authenticator #7/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[12:55:31] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60075] logged in with entity id 14709 at ([world]258.8050657202006, 74.5625, -180.32447854014538)
+[12:55:48] [User Authenticator #8/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[12:55:48] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60082] logged in with entity id 15051 at ([world]197.06931501565592, 68.0, -279.1185786129919)
+[12:55:54] [User Authenticator #9/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[12:55:55] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60085] logged in with entity id 15289 at ([world]259.96421769543036, 74.0, -181.5491417603117)
+[12:55:56] [Server thread/INFO]: cyberboy lost connection: Timed out
+[12:55:56] [Server thread/INFO]: cyberboy left the game
+[12:55:56] [Server thread/WARN]: handleDisconnection() called twice
+[12:56:01] [User Authenticator #10/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[12:56:01] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60086] logged in with entity id 15326 at ([world]258.8050657202006, 74.5625, -180.32447854014538)
+[13:06:18] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[13:06:18] [Server thread/INFO]: cyberboy left the game
+[13:06:19] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[13:06:19] [Server thread/INFO]: Fido27 left the game
+[13:06:23] [User Authenticator #11/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[13:06:23] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60098] logged in with entity id 36956 at ([world]257.45423179390497, 74.5625, -181.5298778529205)
+[13:06:28] [User Authenticator #12/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[13:06:28] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60099] logged in with entity id 37159 at ([world]262.04611266501763, 74.0, -181.53643764633307)
+[13:11:43] [Server thread/INFO]: cyberboy has made the advancement [Acquire Hardware]
+[13:14:34] [Server thread/INFO]: TheSynthax lost connection: Timed out
+[13:14:34] [Server thread/INFO]: TheSynthax left the game
+[13:14:34] [Server thread/WARN]: handleDisconnection() called twice
+[13:20:29] [Server thread/INFO]: cyberboy has made the advancement [Getting an Upgrade]
+[13:20:33] [User Authenticator #13/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[13:20:33] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60111] logged in with entity id 57828 at ([world]133.08817736372515, 32.0, -434.4168784099723)
+[13:28:21] [Server thread/INFO]: TheSynthax lost connection: Timed out
+[13:28:21] [Server thread/INFO]: TheSynthax left the game
+[13:30:44] [User Authenticator #14/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[13:30:44] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60128] logged in with entity id 77918 at ([world]124.60058081102247, 62.16068590215773, -353.12315991596455)
+[13:33:54] [User Authenticator #15/INFO]: UUID of player freakester is 7e13af9d-fdd3-30db-b29a-3a91c96eb136
+[13:33:54] [Server thread/INFO]: freakester[/0:0:0:0:0:0:0:1:60142] logged in with entity id 78897 at ([world]274.4669857215863, 63.0, -319.3415773368682)
+[13:36:56] [Server thread/INFO]: freakester lost connection: Disconnected
+[13:36:56] [Server thread/INFO]: freakester left the game
+[13:37:04] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[13:37:04] [Server thread/INFO]: cyberboy left the game
+[13:37:53] [User Authenticator #16/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[13:37:53] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60150] logged in with entity id 80551 at ([world]224.30000001192093, 66.0, -179.30000001192093)
+[13:38:00] [User Authenticator #17/INFO]: UUID of player freakester is 7e13af9d-fdd3-30db-b29a-3a91c96eb136
+[13:38:00] [Server thread/INFO]: freakester[/0:0:0:0:0:0:0:1:60152] logged in with entity id 80613 at ([world]275.2983736412078, 76.0, -335.60852621318423)
+[13:49:43] [Server thread/INFO]: TheSynthax lost connection: Timed out
+[13:49:43] [Server thread/INFO]: TheSynthax left the game
+[13:51:30] [Server thread/INFO]: freakester lost connection: Disconnected
+[13:51:30] [Server thread/INFO]: freakester left the game
+[13:51:32] [Server thread/INFO]: Fido27 has made the advancement [Not Today, Thank You]
+[13:51:46] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[13:51:46] [Server thread/INFO]: cyberboy left the game
+[13:51:51] [User Authenticator #18/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[13:51:51] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60168] logged in with entity id 94346 at ([world]226.30000001192093, 65.51887014465781, -184.79890022762007)
+[13:51:59] [User Authenticator #19/INFO]: UUID of player freakester is 7e13af9d-fdd3-30db-b29a-3a91c96eb136
+[13:51:59] [Server thread/INFO]: freakester[/0:0:0:0:0:0:0:1:60169] logged in with entity id 94447 at ([world]197.35616242350258, 68.0, -275.03909632216846)
+[13:52:03] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[13:52:03] [Server thread/INFO]: Fido27 left the game
+[13:52:09] [Server thread/INFO]: freakester lost connection: Disconnected
+[13:52:09] [Server thread/INFO]: freakester left the game
+[13:52:15] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[13:52:15] [Server thread/INFO]: cyberboy left the game
+[13:52:40] [User Authenticator #20/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[13:52:40] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60170] logged in with entity id 94465 at ([world]187.69999998807907, 39.0, -417.30000001192093)
+[13:52:53] [User Authenticator #21/INFO]: UUID of player freakester is 7e13af9d-fdd3-30db-b29a-3a91c96eb136
+[13:52:53] [Server thread/INFO]: freakester[/0:0:0:0:0:0:0:1:60175] logged in with entity id 94597 at ([world]197.35616242350258, 68.0, -275.03909632216846)
+[13:53:00] [User Authenticator #22/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[13:53:00] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60177] logged in with entity id 94621 at ([world]158.92500001192093, 41.0, -429.68936221935826)
+[13:53:09] [User Authenticator #23/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[13:53:09] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60180] logged in with entity id 95049 at ([world]226.66559499234157, 67.0, -183.3940819293634)
+[13:53:59] [Server thread/INFO]: TheSynthax lost connection: Disconnected
+[13:53:59] [Server thread/INFO]: TheSynthax left the game
+[13:54:29] [User Authenticator #24/INFO]: UUID of player TheSynthax is a059a599-30f0-3dc8-ac65-86d0a3fa9a21
+[13:54:29] [Server thread/INFO]: TheSynthax[/0:0:0:0:0:0:0:1:60181] logged in with entity id 97766 at ([world]139.559677018401, 33.0, -407.30000001192093)
+[14:03:18] [Server thread/INFO]: freakester lost connection: Disconnected
+[14:03:18] [Server thread/INFO]: freakester left the game
+[14:05:25] [Server thread/INFO]: cyberboy has made the advancement [Monster Hunter]
+[14:05:57] [Server thread/INFO]: Krooks lost connection: Disconnected
+[14:05:57] [Server thread/INFO]: Krooks left the game
+[14:06:01] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[14:06:01] [Server thread/INFO]: Fido27 left the game
+[14:06:03] [User Authenticator #25/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[14:06:03] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60199] logged in with entity id 106567 at ([world]261.4728337930819, 74.0, -181.572670142506)
+[14:06:08] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[14:06:08] [Server thread/INFO]: cyberboy left the game
+[14:06:08] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[14:06:08] [Server thread/INFO]: Fido27 left the game
+[14:06:14] [User Authenticator #26/INFO]: UUID of player Fido27 is 7b02509f-f044-3532-be98-b55165788fbc
+[14:06:14] [Server thread/INFO]: Fido27[/0:0:0:0:0:0:0:1:60200] logged in with entity id 106638 at ([world]261.4728337930819, 74.0, -181.572670142506)
+[14:06:29] [User Authenticator #27/INFO]: UUID of player cyberboy is 40f30b4d-3444-3b15-a699-91062c4707a0
+[14:06:29] [Server thread/INFO]: cyberboy[/0:0:0:0:0:0:0:1:60207] logged in with entity id 106972 at ([world]226.93785953195754, 66.0, -185.68242721349597)
+[14:06:39] [User Authenticator #28/INFO]: UUID of player freakester is 7e13af9d-fdd3-30db-b29a-3a91c96eb136
+[14:06:39] [Server thread/INFO]: freakester[/0:0:0:0:0:0:0:1:60222] logged in with entity id 107059 at ([world]274.1883389336847, 63.0, -323.3762723379413)
+[14:06:59] [User Authenticator #29/INFO]: UUID of player Krooks is 906bed8c-6cf4-39b5-b9c1-fe35bb5e4f0d
+[14:06:59] [Server thread/INFO]: Krooks[/0:0:0:0:0:0:0:1:60249] logged in with entity id 107428 at ([world]198.5, 64.0, -246.5)
+[14:07:57] [Server thread/INFO]: TheSynthax hit the ground too hard
+[14:14:40] [Server thread/INFO]: cyberboy lost connection: Disconnected
+[14:14:40] [Server thread/INFO]: cyberboy left the game
+[14:15:16] [Server thread/INFO]: freakester tried to swim in lava
+[14:16:30] [Server thread/INFO]: Krooks tried to swim in lava
+[14:17:32] [Server thread/INFO]: freakester lost connection: Disconnected
+[14:17:32] [Server thread/INFO]: freakester left the game
+[14:19:08] [Server thread/INFO]: TheSynthax lost connection: Disconnected
+[14:19:08] [Server thread/INFO]: TheSynthax left the game
+[14:19:08] [Server thread/INFO]: Krooks lost connection: Disconnected
+[14:19:09] [Server thread/INFO]: Krooks left the game
+[14:19:11] [Server thread/INFO]: Fido27 lost connection: Disconnected
+[14:19:11] [Server thread/INFO]: Fido27 left the game
